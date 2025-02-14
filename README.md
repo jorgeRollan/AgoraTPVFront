@@ -1,3 +1,10 @@
+Aplicación front para obtener los informes de un terminal TPV con ágora de cualquiera de las empresas, procesarlos a una base de datos, visualizarlos y posteriormente enviarlos a un sistema ERP para su gestión, tambien permite la administracion de estas empresas en el programa
+
+
+![5870675262738384742](https://github.com/user-attachments/assets/cf1e8f21-2b28-48a2-86d8-a5fe95231e16)
+![5870675262738384743](https://github.com/user-attachments/assets/0438caef-3409-4568-b736-93cb2aa79396)
+im![5870675262738384744](https://github.com/user-attachments/assets/f7cb22d3-3bbc-4a4a-939d-f2184d36e13a)
+
 # Vite & NextUI Template
 
 This is a template for creating applications using Vite and NextUI (v2).
